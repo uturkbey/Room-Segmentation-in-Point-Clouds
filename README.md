@@ -1,5 +1,5 @@
 # Room-Segmentation-in-Point-Clouds
-This notebook includes the step by step Python implementation of the room segmentation pipeline proposed in the paper by D. Bobkov, M. Kiechle, S. Hilsenbeck, E. Steinbach "Room segmentation in 3D point clouds using anisotropic potential fields" [1].
+Room_Segmentation_Pipeline notebook includes the step by step Python implementation of the room segmentation pipeline proposed in the paper by D. Bobkov, M. Kiechle, S. Hilsenbeck, E. Steinbach "Room segmentation in 3D point clouds using anisotropic potential fields" [1]. Although the main architecture is obtained from [1] there are slight variations in implementation. 
 
 Purpose of this work is to provide a proof-of-concept Python implementation for the proposed room segmentation pipeline in [1]. The code is not optimized for either computatational or space complexity. Some of the intermediate algorithms might be obtained partially or fully from other sources. Related references are provided when necessary. Same pipeline steps are fallowed as explained in the paper unless otherwise mentioned. The code is commented as much as possible to ease the work of a reader.
 
